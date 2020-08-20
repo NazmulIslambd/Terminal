@@ -1,0 +1,30 @@
+from gitHUb
+
+$ git clone <link +name > // git clone
+
+$ git fetch // get somthin from github
+
+$ git push -u origin master // push git toward git hub
+
+$ git pull // change everthig by github for local mechine
+
+$ git branch <name> //create branch
+
+$ git checkout -b <branch name> // create and move toghater
+
+$ git merge <branch name> //merge together
+
+$ git branch - D <branch name> //for delate branch
+
+$ git stash //temporary use 
+
+$ git stash pop /apply //show stash 
+
+$ git stash list //show all stash
+
+$ git clean -f -n //filel clean and show together
+
+$ git touch .git ignore // dont commit *.extension
+
+
+

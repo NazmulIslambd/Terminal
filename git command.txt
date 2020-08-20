@@ -1,0 +1,33 @@
+$ git init //git start
+
+
+$ git config --global user.name "name"
+
+$ git config --global user.email "email"
+
+ $git config --list 
+
+$ git status //All file detacked
+
+$ git add . //for stage all
+
+$git commit -m "message"  //commit for local repository insert (I) ,Eascape,:X
+
+$git log --oneline //log --oneline use for show all commit
+
+$git checkout <serial number> //back stage
+
+$ git checkout <stage move name > //  for stage change
+
+$git diff // all change show
+
+$ git show  <code number> // use for stage change
+$ git rm <file name> //for delate file
+$git reset HEAD <file name> //parmanently delate
+
+
+
+
+
+
+

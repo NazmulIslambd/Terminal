@@ -1,0 +1,15 @@
+1.color 0A 
+2.cls -clear
+3.dir - open user folder
+4.cd - open specific folder
+5.dir/a - hidden file open
+6.mkdir folder name -create new folder
+7.rmdir folder name - delet folder
+8.rmdir/s - delate all together
+9.echo >file name - make file
+10.echo text somthing >create new file = put text & create new file
+11.copy a to b = copy & override file text
+12.dir>>file name = full come another file
+13.del file name = delate file
+14.dir *.extention name = listing specific extention file
+15.wmic logicaldisk get name = you got total disk name
